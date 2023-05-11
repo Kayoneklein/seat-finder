@@ -1,6 +1,13 @@
 # seat_finder
 
-A new Flutter project.
+On a railroad or ship, a berth is a bed that is typically stacked like bunk beds.
+There are five different types of berths available on Indian trains: Lower, Middle, Upper, Side Lower, and Side Upper.
+
+
+This is a mobile application that, given a seat number, would show the position of the seat and indicate the type of berth it is.
+
+To select a seat, you can either search the seat number on the text field above, or click the preferred seat number. To cancel a selected seat number. Click on the given number again.
+
 
 ## Getting Started
 
